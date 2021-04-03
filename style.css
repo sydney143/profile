@@ -64,4 +64,210 @@ font-size: 20px;
 height: 40px;
 width: 150px;
 margin: 20px;
-    background-color: skyblue;}
+    background-color: skyblue;
+    box-shadow: 10px 5px;
+}
+
+#container1{
+
+    height: 700px;
+    width: 1300px;
+  
+
+ 
+
+}
+
+
+
+
+#card {
+        height: 400px;
+        width: 700px;
+        background-color:white;
+        margin-left: 300px;
+    border: solid grey;
+    margin: 10px 50px;
+    }
+    
+    .top-bar{
+        background-color:pink;
+        height: 100px;
+        width:700px;
+        border: solid grey;
+    
+    }
+    
+    .info{
+    position: relative;
+    left: 42px;
+    bottom: -23px;
+    }
+    
+    
+    
+    .profile{
+        height: 100px;
+        width: 100px;
+        margin-top: 40px;
+        margin-left: 50px;
+    }
+    
+    h1 {
+    
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    
+    }
+    
+    .location {
+        height: 20px;
+        width: 20px;}
+    
+    h2{
+     font-size: 20px;
+        font-family: Georgia, 'Times New Roman', Times, serif
+    } 
+    
+    h3{
+        font-family: Georgia, 'Times New Roman', Times, serif
+    } 
+    
+    .setting{
+        height: 20px;
+        width: 20px;
+    }
+    a{
+        color: blue;
+        text-decoration: underline;
+        font-family: Georgia, 'Times New Roman', Times, serif
+    }
+    
+    .seatle{
+        color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    }
+   
+ 
+    .profile-picture{
+       width: 50px;
+    }
+    
+    .checks{
+        width: 50px;
+    
+    }
+
+.x{
+    width: 50px;
+}
+
+
+.container2{
+    width: 400px;
+    height: 297px;
+margin-top: -350px;
+    margin-left: 771px;
+border: solid grey;
+display: flex;
+flex-wrap: wrap;
+}
+
+
+.connection-bar{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+        
+    border: solid grey;
+display: flex;
+    width: 400px;
+    height: 71px;
+background-color: pink;
+ }
+
+
+
+
+.button{
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightgray;
+    border-style: solid;
+    width: 30px;
+    height: 30px;
+    margin-left: 15px;
+    margin-top: 25px;
+}
+
+
+
+    .Education{
+        height: 250px;
+        width: 600px;
+        background-color: whitesmoke;
+        border-style: solid;
+        border-color: grey;
+        margin-top: 256px;
+    }
+     
+     
+
+     
+    .education-bar{
+        background-color:pink;
+        height: 70px;
+        width:600px;
+        border: solid grey;
+     
+    }
+     
+    .word{
+    margin-left: 20px;
+    margin-top: 15px;
+    }
+     
+     
+    .coding{
+        font-size: 15px;
+        margin-left: 20px;
+    }
+     
+    .July{
+        font-size: 10px;
+        margin-left: 20px;
+    }
+     
+    .python{
+        font-size: 12px;
+        margin-left: 20px;
+    }
+     
+     .tod-pic{
+width: 50px;
+
+     }
+     
+
+
+.container3{
+margin-top: -452px;
+    margin-left: 769px;
+ 
+}
+
+
+   .-bar{
+       border: solid grey;
+       width: 400px;
+       background-color: pink;
+   }
+    .last-box{
+width: 400px;
+border: solid grey;
+        font-family: Georgia, 'Times New Roman', Times, serif;   
+
+    }
+    .last-bar{
+color: blue;
+text-decoration: underline;
+        border: solid grey;
+    }
